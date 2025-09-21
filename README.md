@@ -19,3 +19,8 @@ typst init @local/informe <nombre>
 ```
 
 Esto crea un diretorio llamado `nombre` y un `informe.typ` con su correspondiente `informe.pdf`.
+
+---
+
+El logo de la **Escuela Politécnica Superior** es propiedad de la **Universidad Autónoma de Madrid**, con licencia **CC-BY-NC-ND 4.0**.
+
