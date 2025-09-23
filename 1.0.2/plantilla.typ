@@ -94,7 +94,8 @@
   figure(
     align(center)[
       #image("eps.svg", width: 35%)
-    ]
+    ],
+    numbering: none
   )
 
   v(2cm)
