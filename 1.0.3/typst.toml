@@ -1,0 +1,11 @@
+[package]
+name = "informe"
+version = "1.0.3"
+entrypoint = "plantilla.typ"
+authors = ["RodAlc24"]
+license = "MIT"
+description = "Plantilla para informes infomates"
+
+[template]
+path = "template"
+entrypoint = "informe.typ"
